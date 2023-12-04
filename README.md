@@ -42,6 +42,7 @@ CREATE TABLE biosample (
     drr VARCHAR(30),
     email VARCHAR(100)
 );
+INSERT INTO biosample (biosample, bioproject, drr, email) VALUES ('BS12345', 'BP12345', 'DRR12345', 'newuser@server.com');
 ```
 ### Simple Demo with mock data
 [Search DDBJ Private Data](https://github.com/aghelfi-ddbj/KeyNodeFinder/blob/main/demo/Demo_20231204.pdf)
