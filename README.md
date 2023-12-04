@@ -43,4 +43,5 @@ CREATE TABLE biosample (
     email VARCHAR(100)
 );
 ```
-
+### Simple Demo with mock data
+[Search DDBJ Private Data](https://github.com/aghelfi-ddbj/KeyNodeFinder/blob/main/demo/Demo_20231204.pdf)
